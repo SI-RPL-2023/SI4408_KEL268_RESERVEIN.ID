@@ -36,7 +36,7 @@ Route::middleware('auth')->group(function () {
     Route::get('/profile/password', [ProfileController::class, 'password'])->name('profile.password');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
-    
+
     // History
     Route::get('/history', [ProfileController::class, 'history'])->name('history');
 
@@ -50,3 +50,4 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
