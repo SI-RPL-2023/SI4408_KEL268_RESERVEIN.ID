@@ -65,7 +65,7 @@
             </div>
             <!-- filter -->
             <div class="w-full h-fit " id="filter">
-                <h1 class="font-medium mb-5">Search by property name</h1>
+                <h1 class="font-medium mb-5">Search by room name</h1>
                 <div class="flex items-center px-3 border-2 border-[#dddddd]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
@@ -231,18 +231,17 @@
                         <p class="text-sm">Westminster Borough, London</p>
                     </div>
                     <div class="mt-3" id="room-desc">
-                        <h1 class="font-medium">King Room</h1>
-                        <p class="text-sm">1 extra-large double bed</p>
+                        <h1 class="font-medium">10 - 15 Person</h1>
                     </div>
                     <div class="mt-4 text-sm text-[#008009]">
                         <h1 class="font-semibold">Free Cancellation</h1>
                         <p>You can cancel later, so lock in this great price today.</p>
                     </div>
                     <div class="flex text-sm gap-4 mt-3">
-                        <div class="border border-gray-300 rounded-xl px-3 py-1">Breakfast</div>
+                        <div class="border border-gray-300 rounded-xl px-3 py-1">Projector</div>
                         <div class="border border-gray-300 rounded-xl px-3 py-1">WiFi</div>
-                        <div class="border border-gray-300 rounded-xl px-3 py-1">Spa</div>
-                        <div class="border border-gray-300 rounded-xl px-3 py-1">Bar</div>
+                        <div class="border border-gray-300 rounded-xl px-3 py-1">F&B</div>
+                        <div class="border border-gray-300 rounded-xl px-3 py-1">Speaker</div>
                     </div>
                 </div>
                 <div class="w-4/12 flex flex-col items-end justify-around">
@@ -250,13 +249,13 @@
                         <p>0 reviews</p>
                     </div>
                     <div>
-                        <p>8 nigths, 2 adult</p>
-                        <h1>Rp. 499.000</h1>
+                        <p>price/hour</p>
+                        <h1>Rp. 200.000</h1>
                     </div>
                     <div>
                         <a href="/room"><button
                                 class="flex bg-[#3C6A91] hover:bg-[#081440] px-5 py-3 text-white font-medium rounded-lg">
-                                See Availability<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                                Order<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="2" stroke="currentColor" class="w-6 h-6">
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25" />
@@ -334,18 +333,17 @@
                         <p class="text-sm">Westminster Borough, London</p>
                     </div>
                     <div class="mt-3" id="room-desc">
-                        <h1 class="font-medium">King Room</h1>
-                        <p class="text-sm">1 extra-large double bed</p>
+                        <h1 class="font-medium">10 - 15 Person</h1>
                     </div>
                     <div class="mt-4 text-sm text-[#008009]">
                         <h1 class="font-semibold">Free Cancellation</h1>
                         <p>You can cancel later, so lock in this great price today.</p>
                     </div>
                     <div class="flex text-sm gap-4 mt-3">
-                        <div class="border border-gray-300 rounded-xl px-3 py-1">Breakfast</div>
+                        <div class="border border-gray-300 rounded-xl px-3 py-1">Projector</div>
                         <div class="border border-gray-300 rounded-xl px-3 py-1">WiFi</div>
-                        <div class="border border-gray-300 rounded-xl px-3 py-1">Spa</div>
-                        <div class="border border-gray-300 rounded-xl px-3 py-1">Bar</div>
+                        <div class="border border-gray-300 rounded-xl px-3 py-1">F&B</div>
+                        <div class="border border-gray-300 rounded-xl px-3 py-1">Speaker</div>
                     </div>
                 </div>
                 <div class="w-4/12 flex flex-col items-end justify-around">
@@ -353,13 +351,13 @@
                         <p>0 reviews</p>
                     </div>
                     <div>
-                        <p>8 nigths, 2 adult</p>
-                        <h1>Rp. 499.000</h1>
+                        <p>price/hour</p>
+                        <h1>Rp. 200.000</h1>
                     </div>
                     <div>
                         <button
                             class="flex bg-[#3C6A91] hover:bg-[#081440] px-5 py-3 text-white font-medium rounded-lg">
-                            See Availability<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                            Order<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                 stroke-width="2" stroke="currentColor" class="w-6 h-6">
                                 <path stroke-linecap="round" stroke-linejoin="round"
                                     d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25" />
