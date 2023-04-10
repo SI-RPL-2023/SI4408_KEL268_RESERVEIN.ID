@@ -151,8 +151,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -161,11 +160,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -235,8 +234,8 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="text-[#6B7280] text-sm"></p>
+                            <p class="font-semibold">Ciganitri Meeting Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -245,11 +244,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 150.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -319,8 +318,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -329,11 +327,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -403,8 +401,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -413,11 +410,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -487,8 +484,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -497,11 +493,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -571,8 +567,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -581,11 +576,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -655,8 +650,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -665,11 +659,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
@@ -739,8 +733,7 @@
                     </div>
                     <div class="w-4/5 h-2/6 mx-auto">
                         <div class="w-fit">
-                            <p class="text-[#6B7280] text-sm">Entire cabin · 10 beds</p>
-                            <p class="font-semibold">Best Western Cedars Hotel</p>
+                            <p class="font-semibold">Stellar Rooms</p>
                             <div class="flex gap-2 text-[#6B7280]">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                     stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -749,11 +742,11 @@
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
                                 </svg>
-                                <p class="text-sm">1 Anzinger Court</p>
+                                <p class="text-sm">Dago, Bandung</p>
                             </div>
                         </div>
                         <div class="mt-3">
-                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">$26 </span>/night</p>
+                            <p class="text-[#6B7280]"><span class="text-black font-extrabold">Rp. 200.000 </span>/hour</p>
                         </div>
                     </div>
                 </div>
