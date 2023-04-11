@@ -30,7 +30,7 @@
             <div class="w-10/12 mx-auto mt-20">
                 <h1 class="text-5xl text-white font-bold drop-shadow-lg">Effortless
                     <br>Meeting
-                    <br>at Your 
+                    <br>at Your
                     <br>Fingertips</h1>
                 </div>
                 <img class="w-11/12 left-1/2 -translate-x-1/2 absolute bottom-0" src="assets/login.png" alt="">
@@ -45,3 +45,4 @@
 </body>
 
 </html>
+
