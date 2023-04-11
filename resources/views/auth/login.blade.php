@@ -36,7 +36,7 @@
 
             <!-- Remember Me -->
             <div class="flex items-center justify-between mt-4">
-                <!-- <div>    
+                <!-- <div>
                 <label for="remember_me" class="inline-flex items-center">
                     <input id="remember_me" type="checkbox" class="rounded border-gray-300 text-indigo-600 shadow-sm focus:ring-indigo-500" name="remember">
                     <span class="ml-2 text-sm">{{ __('Remember me') }}</span>
@@ -53,3 +53,4 @@
         </form>
     </div>
 </x-guest-layout>
+

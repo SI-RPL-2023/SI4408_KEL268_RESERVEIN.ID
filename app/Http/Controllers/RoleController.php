@@ -21,3 +21,4 @@ class RoleController extends Controller
         return redirect()->route('register')->with('data', $role);
     }
 }
+
