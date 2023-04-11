@@ -9,3 +9,4 @@ class Booking extends Model
 {
     use HasFactory;
 }
+
