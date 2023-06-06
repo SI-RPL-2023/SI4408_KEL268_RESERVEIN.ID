@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('users', function (Blueprint $table) {
             $table->id();
-            $table->string('role');
+            // $table->boolean('is_partner')->default(false);
             $table->string('name');
             $table->string('username')->unique();
             $table->string('gender')->nullable();
@@ -24,6 +24,8 @@ return new class extends Migration
             $table->string('address')->nullable();
             $table->string('nomor')->nullable();
             $table->string('about')->nullable();
+            $table->string('foto')->nullable();
+            $table->integer('point')->default(0);
             $table->string('termsofservice');
             $table->rememberToken();
             $table->timestamps();
