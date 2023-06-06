@@ -18,7 +18,7 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
-        'role',
+        // 'is_partner',
         'name',
         'username',
         'gender',
@@ -29,7 +29,9 @@ class User extends Authenticatable
         'email',
         'nomor',
         'termsofservice',
+        'foto',
         'password',
+        'point'
     ];
 
     /**
@@ -50,5 +52,9 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
-}
 
+    public function rating()
+    {
+        return $this->hasOne(Rating::class);
+    }
+}

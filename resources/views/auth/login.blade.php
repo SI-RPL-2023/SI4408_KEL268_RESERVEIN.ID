@@ -1,9 +1,10 @@
 <x-guest-layout>
-    <div class="relative top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 w-8/12 border shadow-lg rounded-2xl p-16" style="background-color: rgba(255, 255, 255, 0.7)">
+    <div class="relative top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 w-8/12 border shadow-lg rounded-2xl p-16 bg-white bg-opacity-70" style="background-color: rgba(255, 255, 255, 0.7)">
         <!-- Session Status -->
         <x-auth-session-status class="mb-4" :status="session('status')" />
+        <p class="absolute top-5 right-5 text-sm font-medium">Not a member? <a class="text-[#4F3CC9]" href="{{ route('register') }}">Sign up now</a></p>
         <form method="POST" action="{{ route('login') }}" class="w-7/12 mx-auto">
-            <h1 class="text-2xl font-bold mb-4" style="font-family:'Poppins', sans-serif;">Sign in to Reservin</h1>
+            <h1 class="text-2xl font-bold mb-4" style="font-family:'Poppins', sans-serif;">Sign in as Customer to Reservin</h1>
             @csrf
 
             <!-- Email Address -->
@@ -34,17 +35,7 @@
                 <x-input-error :messages="$errors->get('password')" class="mt-2" />
             </div>
 
-            <!-- Remember Me -->
-            <div class="flex items-center justify-between mt-4">
-                <!-- <div>
-                <label for="remember_me" class="inline-flex items-center">
-                    <input id="remember_me" type="checkbox" class="rounded border-gray-300 text-indigo-600 shadow-sm focus:ring-indigo-500" name="remember">
-                    <span class="ml-2 text-sm">{{ __('Remember me') }}</span>
-                </label>
-            </div> -->
-            </div>
-
-            <div class="">
+            <div class="mt-4">
 
                 <button class="text-sm bg-[#3C6A91] text-white px-10 py-2 rounded-lg">
                     {{ __('Sign in') }}
@@ -53,6 +44,3 @@
         </form>
     </div>
 </x-guest-layout>
-
-
-

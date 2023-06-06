@@ -13,11 +13,32 @@ return new class extends Migration
     {
         Schema::create('room', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name'); 
-            $table->string('room');
+            $table->unsignedBigInteger('partner_id');
+            $table->string('room_name'); 
+            $table->string('address1');
+            $table->string('address2');
+            $table->string('subdistrict');
+            $table->string('city');
+            $table->string('zipcode');
+            $table->string('room_type');
+            $table->string('room_area');
+            $table->string('person');
+            $table->text('room_description');
+            $table->string('properties1');
+            $table->string('properties2');
+            $table->string('properties3');
+            $table->string('properties4');
+            $table->string('properties5')->nullable();
+            $table->string('properties6')->nullable();
+            $table->string('properties7')->nullable();
+            $table->string('properties8')->nullable();
+            $table->string('special_note');
+            $table->string('foto1');
+            $table->string('foto2');
+            $table->string('foto3');
+            $table->string('foto4');
             $table->string('price');
-            $table->string('address')->nullable();
-            $table->text('description');
+            $table->string('review')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });
